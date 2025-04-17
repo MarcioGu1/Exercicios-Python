@@ -1,4 +1,6 @@
-
+""" Olá meu nome é marcio e esse é um exercicio de portifólio proposto pela faculdade,
+nele o objeto era criar uma lista encadeada e depois criar uuma função que
+retornasse o numero de nós"""
 
 from random import randint
 
